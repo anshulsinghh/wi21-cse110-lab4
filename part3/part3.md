@@ -1,4 +1,4 @@
-Part 1:
+## Part 1:
 Setting Breakpoints:
 ![](https://raw.githubusercontent.com/anshulsinghh/wi21-cse110-lab4/main/part3/result%20breakpoint.png)
 
@@ -10,7 +10,7 @@ The bug was that the two integers were treated as strings during addition. The f
 This is the fixed code:
 ![](https://raw.githubusercontent.com/anshulsinghh/wi21-cse110-lab4/main/part3/Fixed%20Part%201.png)
 
-Part 2:
+## Part 2:
 1. citylots.json
 2. part2.js
 3. 11.7 MB
