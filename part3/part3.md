@@ -2,7 +2,7 @@ Part 1:
 The bug was that the two integers were treated as strings during addition. The fix was to use parseInt() to get the integer values of provided strings before adding.
 
 This is the fixed code:
-![](Fixed Part 1.png)
+![](./Fixed\ Part\ 1.png)
 Part 2:
 1. citylots.json
 2. part2.js
